@@ -1,6 +1,6 @@
 # Questions
 
-- Regles de facturation jour Nuit
+- Règles de facturation jour Nuit
 - Siège auto enfant 
 - Les animaux sont-ils tous autorisés ? 
 	Pas de distinction
@@ -12,4 +12,8 @@ Max
 Marine
 - Peut-on avoir les règles de facturation ? (VIP, au km, au minimum, dépend de l'heure)
 - Est-ce qu'on prend en compte les péages d'autoroute dans les trajets longue distance ?
-- Comment sont pris en charge les aller-retours ? "Ramonville-Capitole et Capitole-St-Agne" est-il considéré comme aller-retour ? "Ramonville-Capitole et Capitole-Ramonville avec attente de 10h à Capitole" est-il considéré comme aller-retour ?
+- Comment sont pris en charge les aller-retours ? "Ramonville-Capitole et Capitole-St-Agne" est-il considéré comme aller-retour ? "Ramonville-Capitole et Capitole-Ramonville avec attente de 10h à Capitole" est-il considéré comme aller-retour ? Le chauffeur peut il être le même et comment le reserve-t-il pour le moment ?
+
+Paul
+- Nombre de chauffeur limite à mettre dans la liste d’attribution
+- Ordonnancement du Groupe 6  : Oui ou Non ? plus simple si non
