@@ -17,3 +17,6 @@ Marine
 Paul
 - Nombre de chauffeur limite à mettre dans la liste d’attribution
 - Ordonnancement du Groupe 6  : Oui ou Non ? plus simple si non
+
+Cassie
+- Combien CapitoleTaxi est prêt à payer pour le serveur distant (5€, 10€, 20€, 40€, 80€/mois) ?
