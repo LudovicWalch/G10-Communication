@@ -22,6 +22,7 @@ Cassie
 - Combien CapitoleTaxi est prêt à payer pour le serveur distant (5€, 10€, 20€, 40€, 80€/mois) ?
 
 Melanie 
-- A partir de combien de refus y a t il pénalité ? 5
-- Sur quelle durée est-ce calculée ? (sur combien de temps les pénalités sont calculées) 2heures
+- A partir de combien de refus y a t il pénalité ? 5 refus
+- Sur quelle durée est-ce calculée ? (sur combien de temps les pénalités sont calculées) 2 heures
 - Jusqu’à quand la pénalité est-elle affectée ? Une journée
+- Timeout si la course n'est pas effectuée ? 12 heures
