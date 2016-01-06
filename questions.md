@@ -27,4 +27,6 @@ Melanie
 - Timeout si la course n'est pas effectuée ? 12 heures
 
 Axel
-- question 1
+- Ont-ils des sièges enfant à disposition ?
+- Comment peut-on différencier un professionnel d'un particulier ? (faut-il une preuve ou cela se juge à la confiance ?)
+- Doit on gérer le fait que vous pouvez accueillir plus de 4 personnes (Monospace, Van) ou ces réservations ne se font que à l'avance et par appel téléphonique ?
