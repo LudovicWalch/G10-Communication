@@ -12,6 +12,7 @@ Marine
 - Est-ce qu'on prend en compte les péages d'autoroute dans les trajets longue-distance ? pas pour le moment, on verra par la suite
 - Comment sont pris en charge les aller-retours ? "Ramonville-Capitole et Capitole-St-Agne" est-il considéré comme aller-retour ? "Ramonville-Capitole et Capitole-Ramonville avec attente de 10h à Capitole" est-il considéré comme aller-retour ? Le chauffeur peut il être le même et comment le reserve-t-il pour le moment ?
 On gère comme si le départ du retour est l'arrivée de l'aller et l'arrivée du retour et le départ de l'aller.
+- Comment gère-t-on les forfaits des clients ? Forfait au mois ou à chaque course ? Pour le moment on ne le sprends pas en compte tant que l'on a pas de réponse de Capitole Taxi
 
 Paul
 - Nombre de chauffeur limite à mettre dans la liste d’attribution ? On part sur 10 chauffeurs pour le moment
