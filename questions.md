@@ -26,6 +26,5 @@ Melanie
 - Jusqu’à quand la pénalité est-elle affectée ? Une journée
 - Timeout si la course n'est pas effectuée ? 12 heures
 
-
 Axel
 -
