@@ -1,8 +1,5 @@
 # Questions
 
-- Les animaux sont-ils tous autorisés ? Pas de distinction
-- Quelles sont les modalités de privilège ? (est ce qu'un utilisateur prefère attendre son conducteur ou changer s'il n'est pas libre ? Est-ce qu'il peut réserver un chauffeur plusieurs jours à l'avance ?)
-
 Max
 - Peut-on avoir les données sur les secteurs et les stations ? Non, on va devoir probablement les créer nous même
 
@@ -13,9 +10,11 @@ Marine
 - Comment sont pris en charge les aller-retours ? "Ramonville-Capitole et Capitole-St-Agne" est-il considéré comme aller-retour ? "Ramonville-Capitole et Capitole-Ramonville avec attente de 10h à Capitole" est-il considéré comme aller-retour ? Le chauffeur peut il être le même et comment le reserve-t-il pour le moment ?
 On gère comme si le départ du retour est l'arrivée de l'aller et l'arrivée du retour et le départ de l'aller.
 - Comment gère-t-on les forfaits des clients ? Forfait au mois ou à chaque course ? Forfait à la course uniquement.
+- Les animaux sont-ils tous autorisés ? Pas de distinction
+- Quelles sont les modalités de privilège ? (est ce qu'un utilisateur prefère attendre son conducteur ou changer s'il n'est pas libre ? Est-ce qu'il peut réserver un chauffeur plusieurs jours à l'avance ?)
 
 Paul
-- Nombre de chauffeur limite à mettre dans la liste d’attribution ? On part sur 10 chauffeurs pour le moment
+- Nombre de chauffeur limite à mettre dans la liste d’attribution ? On part sur tous les chauffeurs pour le moment
 - Ordonnancement du Groupe 6  : Oui ou Non ? On s'accentue sur non, mais on fait la seconde possibilité.
 
 Cassie
